@@ -8,12 +8,12 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    @IBOutlet private var titleLabel: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        titleLabel.text = Bundle.main.localizedString(forKey: "test.title", value: "No Localisation", table: "Localisations")
     }
-
-
 }
 
