@@ -1,2 +1,7 @@
-"test.title" = "test.title.value";
+"first_screen__#getstarted" = "Get started";
+"first_screen__#signin" = "Sign in and restore data";
+"first_screen__#welcome" = "Welcome to";
+"first_screen__all_saved_data_has_been_deleted" = "Digitalchemy";
+"first_screen__appname" = "My Diary!";
 "test.description" = "test.description";
+"test.title" = "test.title.value";
