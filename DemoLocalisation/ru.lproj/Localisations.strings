@@ -1,2 +1,7 @@
-"test.title" = "";
-"test.description" = "";
+"first_screen__#appname" = "имя приложения";
+"first_screen__#getstarted" = "test3";
+"first_screen__#signin" = "test2";
+"first_screen__#welcome" = "test4";
+"first_screen__all_saved_data_has_been_deleted" = "test111";
+"test.description" = "русский тайт";
+"test.title" = "русское описание";
